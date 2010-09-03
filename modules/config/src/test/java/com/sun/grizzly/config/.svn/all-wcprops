@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config
+END
+XProtocolFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/XProtocolFilter.java
+END
+GrizzlyConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/GrizzlyConfigTest.java
+END
+XProtocolFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/XProtocolFinder.java
+END
+HttpRedirectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/HttpRedirectTest.java
+END
+TestSecurePasswordProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/TestSecurePasswordProvider.java
+END
+PUGrizzlyConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/PUGrizzlyConfigTest.java
+END
+KeepAliveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/KeepAliveTest.java
+END
+ThreadPoolIdleTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/ThreadPoolIdleTimeoutTest.java
+END
+CometTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/CometTest.java
+END
+PipelineFullTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/PipelineFullTest.java
+END
+GrizzlyServletTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/GrizzlyServletTestBase.java
+END
+BaseGrizzlyConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/BaseGrizzlyConfigTest.java
+END
+ContentTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/java/com/sun/grizzly/config/ContentTypeTest.java
+END

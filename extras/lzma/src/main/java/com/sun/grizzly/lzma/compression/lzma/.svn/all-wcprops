@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/lzma
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/lzma/Encoder.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/lzma/Decoder.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/lzma/Base.java
+END

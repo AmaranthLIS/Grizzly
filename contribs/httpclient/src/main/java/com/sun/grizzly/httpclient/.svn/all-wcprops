@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpclient/src/main/java/com/sun/grizzly/httpclient
+END
+HttpMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpclient/src/main/java/com/sun/grizzly/httpclient/HttpMethod.java
+END
+HttpProtocolVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpclient/src/main/java/com/sun/grizzly/httpclient/HttpProtocolVersion.java
+END
+HttpClientRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpclient/src/main/java/com/sun/grizzly/httpclient/HttpClientRequest.java
+END
+GrizzlyHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpclient/src/main/java/com/sun/grizzly/httpclient/GrizzlyHttpClient.java
+END
+HttpClientResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpclient/src/main/java/com/sun/grizzly/httpclient/HttpClientResponse.java
+END

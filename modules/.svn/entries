@@ -1,0 +1,107 @@
+10
+
+dir
+5111
+https://www.dev.java.net/svn/grizzly/trunk/code/modules
+https://www.dev.java.net/svn/grizzly
+
+
+
+2010-09-01T15:32:35.356818Z
+5101
+rlubke
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+04fdb32c-e91d-0410-84f5-98e489d73e21
+
+http
+dir
+
+grizzly-aio
+dir
+
+rcm
+dir
+
+http-servlet-deployer
+dir
+
+compat
+dir
+
+http-aio
+dir
+
+pom.xml
+file
+
+
+
+
+2010-09-03T01:25:22.000000Z
+ba97696d1e99f772add3c2edc239ae2f
+2010-08-23T18:05:40.665222Z
+5031
+cheeser
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3168
+
+bundles
+dir
+
+utils
+dir
+
+http-servlet
+dir
+
+config
+dir
+
+portunif
+dir
+
+comet
+dir
+
+websockets
+dir
+
+grizzly
+dir
+
+cometd
+dir
+

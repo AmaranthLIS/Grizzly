@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http
+END
+ServerCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/ServerCookie.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/Parameters.java
+END
+AcceptLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/AcceptLanguage.java
+END
+HtmlHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/HtmlHelper.java
+END
+FastDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/FastDateFormat.java
+END
+FastHttpDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/FastHttpDateFormat.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/LocalStrings_es.properties
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/LocalStrings_fr.properties
+END
+HttpMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/HttpMessages.java
+END
+Cookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/Cookie.java
+END
+LocaleToCharsetMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/LocaleToCharsetMap.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/ContentType.java
+END
+ParameterMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/ParameterMap.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/LocalStrings.properties
+END
+Enumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/Enumerator.java
+END
+MimeHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/MimeHeaders.java
+END
+StringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/StringParser.java
+END
+Globals.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/Globals.java
+END
+MimeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/MimeMap.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/MimeType.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/LocalStrings_ja.properties
+END
+Cookies.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/Cookies.java
+END
+HttpRequestURIDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/HttpRequestURIDecoder.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/mapper
+END
+AlternateDocBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/mapper/AlternateDocBase.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/mapper/Mapper.java
+END
+MappingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/http/mapper/MappingData.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/bundles/http-servlet-deployer/src/main/java/com/sun/grizzly/http/servlet/deployer
+END
+WarDeploymentConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/bundles/http-servlet-deployer/src/main/java/com/sun/grizzly/http/servlet/deployer/WarDeploymentConfiguration.java
+END
+GrizzlyWebServerDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/bundles/http-servlet-deployer/src/main/java/com/sun/grizzly/http/servlet/deployer/GrizzlyWebServerDeployer.java
+END
+WarDeployable.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/bundles/http-servlet-deployer/src/main/java/com/sun/grizzly/http/servlet/deployer/WarDeployable.java
+END
+WarDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/bundles/http-servlet-deployer/src/main/java/com/sun/grizzly/http/servlet/deployer/WarDeployer.java
+END

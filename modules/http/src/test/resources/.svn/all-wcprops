@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/grizzly/!svn/ver/4705/trunk/code/modules/http/src/test/resources
+END
+ssltest-cacerts.jks
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/grizzly/!svn/ver/4705/trunk/code/modules/http/src/test/resources/ssltest-cacerts.jks
+END
+ssltest-keystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/grizzly/!svn/ver/4705/trunk/code/modules/http/src/test/resources/ssltest-keystore.jks
+END

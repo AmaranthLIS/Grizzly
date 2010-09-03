@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/resources
+END
+test-truststore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/grizzly/!svn/ver/2794/trunk/code/modules/http-servlet/src/test/resources/test-truststore.jks
+END
+test-keystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/grizzly/!svn/ver/2794/trunk/code/modules/http-servlet/src/test/resources/test-keystore.jks
+END

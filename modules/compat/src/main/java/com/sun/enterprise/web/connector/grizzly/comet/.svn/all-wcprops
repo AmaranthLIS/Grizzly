@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet
+END
+NotificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/NotificationHandler.java
+END
+CometWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/CometWriter.java
+END
+CometHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/CometHandler.java
+END
+DefaultNotificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/DefaultNotificationHandler.java
+END
+CometEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/CometEvent.java
+END
+CometReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/CometReader.java
+END
+CometTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/CometTask.java
+END
+CometContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/CometContext.java
+END
+CometEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/compat/src/main/java/com/sun/enterprise/web/connector/grizzly/comet/CometEngine.java
+END

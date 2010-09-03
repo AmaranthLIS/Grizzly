@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/grizzly/!svn/ver/2482/trunk/code/modules/portunif/src/test/resources
+END
+ppssltest-cacerts.jks
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/grizzly/!svn/ver/2482/trunk/code/modules/portunif/src/test/resources/ppssltest-cacerts.jks
+END
+ppssltest-keystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/grizzly/!svn/ver/2482/trunk/code/modules/portunif/src/test/resources/ppssltest-keystore.jks
+END

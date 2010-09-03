@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf
+END
+TimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/TimeStamp.java
+END
+UEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/UEncoder.java
+END
+HexUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/HexUtils.java
+END
+Base64Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5002/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/Base64Utils.java
+END
+CharChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/CharChunk.java
+END
+B2CConverterBlocking.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/B2CConverterBlocking.java
+END
+UTF8Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/UTF8Decoder.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/Base64.java
+END
+Ascii.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/Ascii.java
+END
+UDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/UDecoder.java
+END
+StringCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/StringCache.java
+END
+MessageBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/MessageBytes.java
+END
+ByteChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/ByteChunk.java
+END
+C2BConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/C2BConverter.java
+END
+B2CConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/util/buf/B2CConverter.java
+END

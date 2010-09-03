@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/grizzly/!svn/ver/5100/trunk/code/modules/config/src/main/java/com/sun/grizzly/config
+END
+ConfigAwareElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/ConfigAwareElement.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/Utils.java
+END
+GrizzlyConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/GrizzlyConfig.java
+END
+GrizzlyServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/GrizzlyServiceListener.java
+END
+ContextRootInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/ContextRootInfo.java
+END
+HttpRedirectFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/HttpRedirectFilter.java
+END
+GrizzlyEmbeddedHttps.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/GrizzlyEmbeddedHttps.java
+END
+ContainerStaticStreamAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/ContainerStaticStreamAlgorithm.java
+END
+GrizzlyConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/GrizzlyConfigException.java
+END
+ConfigProtocolFinderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/ConfigProtocolFinderWrapper.java
+END
+FileCacheAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/FileCacheAware.java
+END
+GrizzlyEmbeddedHttp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/GrizzlyEmbeddedHttp.java
+END
+SecurePasswordProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/SecurePasswordProvider.java
+END
+SSLConfigHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/SSLConfigHolder.java
+END
+ContainerStaticHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/ContainerStaticHandler.java
+END
+HttpProtocolFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/HttpProtocolFinder.java
+END
+GrizzlyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/GrizzlyUtils.java
+END
+WebProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/main/java/com/sun/grizzly/config/WebProtocolHandler.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/localization
+END
+Localizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/localization/Localizable.java
+END
+Localizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/localization/Localizer.java
+END
+LocalizableMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/localization/LocalizableMessage.java
+END
+LocalizableMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/utils/src/main/java/com/sun/grizzly/localization/LocalizableMessageFactory.java
+END

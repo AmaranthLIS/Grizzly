@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo2/src/main/java/com/sun/grizzly/samples/migration/response/handler
+END
+FeedResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo2/src/main/java/com/sun/grizzly/samples/migration/response/handler/FeedResponseHandler.java
+END
+IResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo2/src/main/java/com/sun/grizzly/samples/migration/response/handler/IResponseHandler.java
+END
+QuoteResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo2/src/main/java/com/sun/grizzly/samples/migration/response/handler/QuoteResponseHandler.java
+END

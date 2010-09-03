@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/grizzly/!svn/ver/5041/trunk/code/modules/config/src/test/resources
+END
+legacy-http-https-redirect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/legacy-http-https-redirect.xml
+END
+legacy-https-http-redirect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/legacy-https-http-redirect.xml
+END
+keep-alive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/keep-alive.xml
+END
+http-https-redirect-same-port.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/http-https-redirect-same-port.xml
+END
+https-http-redirect-same-port.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/https-http-redirect-same-port.xml
+END
+keystore-pwd.jks
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/grizzly/!svn/ver/4412/trunk/code/modules/config/src/test/resources/keystore-pwd.jks
+END
+grizzly-config-pu-double-http.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-pu-double-http.xml
+END
+grizzly-config-ssl-passprovider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-ssl-passprovider.xml
+END
+keystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/grizzly/!svn/ver/3788/trunk/code/modules/config/src/test/resources/keystore.jks
+END
+grizzly-config-pu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-pu.xml
+END
+grizzly-config-bad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-bad.xml
+END
+cacerts-pwd.jks
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/grizzly/!svn/ver/4412/trunk/code/modules/config/src/test/resources/cacerts-pwd.jks
+END
+http-https-redirect-different-port.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/http-https-redirect-different-port.xml
+END
+grizzly-config-content-type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-content-type.xml
+END
+https-http-redirect-different-port.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/https-http-redirect-different-port.xml
+END
+grizzly-config-pu-loop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-pu-loop.xml
+END
+grizzly-config-timeout-disabled.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-timeout-disabled.xml
+END
+comet-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/comet-config.xml
+END
+cacerts.jks
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/grizzly/!svn/ver/3788/trunk/code/modules/config/src/test/resources/cacerts.jks
+END
+grizzly-config-ssl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config-ssl.xml
+END
+grizzly-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/src/test/resources/grizzly-config.xml
+END

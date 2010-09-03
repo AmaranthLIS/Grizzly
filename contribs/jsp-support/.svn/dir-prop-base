@@ -1,0 +1,13 @@
+K 10
+cvn:ignore
+V 13
+*.iml
+target
+
+K 10
+svn:ignore
+V 13
+target
+*.iml
+
+END

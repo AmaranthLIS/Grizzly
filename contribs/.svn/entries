@@ -1,0 +1,80 @@
+10
+
+dir
+5111
+https://www.dev.java.net/svn/grizzly/trunk/code/contribs
+https://www.dev.java.net/svn/grizzly
+
+
+
+2010-08-23T18:05:40.665222Z
+5031
+cheeser
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+04fdb32c-e91d-0410-84f5-98e489d73e21
+
+jsp-support
+dir
+
+grizzly-comet-jms
+dir
+
+grizzly-httpservice
+dir
+
+pom.xml
+file
+
+
+
+
+2010-09-03T01:24:17.000000Z
+a68161e622c8ed9715e5216a607d0d73
+2010-08-23T18:05:40.665222Z
+5031
+cheeser
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2988
+
+bundles
+dir
+
+httpservice-its
+dir
+
+httpclient
+dir
+

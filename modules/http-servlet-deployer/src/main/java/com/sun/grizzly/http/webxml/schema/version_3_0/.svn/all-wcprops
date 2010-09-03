@@ -1,0 +1,629 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0
+END
+ParamValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ParamValueType.java
+END
+EmptyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EmptyType.java
+END
+CookieConfigType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/CookieConfigType.java
+END
+XsdPositiveIntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdPositiveIntegerType.java
+END
+ServletMappingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServletMappingType.java
+END
+WebResourceCollectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/WebResourceCollectionType.java
+END
+LocalHomeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/LocalHomeType.java
+END
+String.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/String.java
+END
+PortComponentHandlerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PortComponentHandlerType.java
+END
+SessionConfigType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/SessionConfigType.java
+END
+XsdIntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdIntegerType.java
+END
+MessageDestinationRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/MessageDestinationRefType.java
+END
+CookiePathType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/CookiePathType.java
+END
+MessageDestinationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/MessageDestinationType.java
+END
+DispatcherType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/DispatcherType.java
+END
+WelcomeFileListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/WelcomeFileListType.java
+END
+SecurityRoleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/SecurityRoleType.java
+END
+MimeTypeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/MimeTypeType.java
+END
+ServiceRefHandlerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServiceRefHandlerType.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ObjectFactory.java
+END
+CookieCommentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/CookieCommentType.java
+END
+PathType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PathType.java
+END
+ServiceRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServiceRefType.java
+END
+EjbRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EjbRefType.java
+END
+ResourceEnvRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ResourceEnvRefType.java
+END
+ResSharingScopeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ResSharingScopeType.java
+END
+UrlPatternType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/UrlPatternType.java
+END
+FilterMappingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/FilterMappingType.java
+END
+AuthMethodType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/AuthMethodType.java
+END
+WebserviceDescriptionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/WebserviceDescriptionType.java
+END
+TaglibType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/TaglibType.java
+END
+MimeMappingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/MimeMappingType.java
+END
+PortComponentRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PortComponentRefType.java
+END
+AuthConstraintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/AuthConstraintType.java
+END
+ServiceImplBeanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServiceImplBeanType.java
+END
+EjbLocalRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EjbLocalRefType.java
+END
+ResAuthType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ResAuthType.java
+END
+UserDataConstraintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/UserDataConstraintType.java
+END
+EjbLinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EjbLinkType.java
+END
+WebAppType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/WebAppType.java
+END
+LocaleEncodingMappingListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/LocaleEncodingMappingListType.java
+END
+JspPropertyGroupType.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/JspPropertyGroupType.java
+END
+XsdQNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdQNameType.java
+END
+WebservicesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/WebservicesType.java
+END
+FormLoginConfigType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/FormLoginConfigType.java
+END
+DescriptionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/DescriptionType.java
+END
+JavaIdentifierType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/JavaIdentifierType.java
+END
+FilterType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/FilterType.java
+END
+ServletNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServletNameType.java
+END
+SecurityRoleRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/SecurityRoleRefType.java
+END
+HomeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/HomeType.java
+END
+RunAsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/RunAsType.java
+END
+MessageDestinationTypeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/MessageDestinationTypeType.java
+END
+ServiceRefHandlerChainType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServiceRefHandlerChainType.java
+END
+XsdBooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdBooleanType.java
+END
+EjbRefTypeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EjbRefTypeType.java
+END
+NonEmptyStringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/NonEmptyStringType.java
+END
+CookieDomainType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/CookieDomainType.java
+END
+ServletLinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServletLinkType.java
+END
+RoleNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/RoleNameType.java
+END
+HandlerChainsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/HandlerChainsType.java
+END
+FullyQualifiedClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/FullyQualifiedClassType.java
+END
+DisplayNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/DisplayNameType.java
+END
+PortComponentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PortComponentType.java
+END
+TrackingModeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/TrackingModeType.java
+END
+XsdNonNegativeIntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdNonNegativeIntegerType.java
+END
+MessageDestinationUsageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/MessageDestinationUsageType.java
+END
+GenericBooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/GenericBooleanType.java
+END
+SecurityConstraintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/SecurityConstraintType.java
+END
+LifecycleCallbackType.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/LifecycleCallbackType.java
+END
+HandlerChainType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/HandlerChainType.java
+END
+PersistenceUnitRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PersistenceUnitRefType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/package-info.java
+END
+JavaTypeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/JavaTypeType.java
+END
+ErrorCodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ErrorCodeType.java
+END
+JndiNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/JndiNameType.java
+END
+XsdStringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdStringType.java
+END
+ListenerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ListenerType.java
+END
+ErrorPageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ErrorPageType.java
+END
+PersistenceContextRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PersistenceContextRefType.java
+END
+IconType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/IconType.java
+END
+TransportGuaranteeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/TransportGuaranteeType.java
+END
+InjectionTargetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/InjectionTargetType.java
+END
+PersistenceContextTypeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PersistenceContextTypeType.java
+END
+JspFileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/JspFileType.java
+END
+EnvEntryTypeValuesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EnvEntryTypeValuesType.java
+END
+EjbRefNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EjbRefNameType.java
+END
+LoginConfigType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/LoginConfigType.java
+END
+MessageDestinationLinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/MessageDestinationLinkType.java
+END
+WarPathType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/WarPathType.java
+END
+CookieNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/CookieNameType.java
+END
+EnvEntryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/EnvEntryType.java
+END
+ServiceRefHandlerChainsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServiceRefHandlerChainsType.java
+END
+JspConfigType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/JspConfigType.java
+END
+LocaleEncodingMappingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/LocaleEncodingMappingType.java
+END
+ResourceRefType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ResourceRefType.java
+END
+PropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/PropertyType.java
+END
+ServletType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/ServletType.java
+END
+XsdAnyURIType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdAnyURIType.java
+END
+FilterNameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/FilterNameType.java
+END
+XsdNMTOKENType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/XsdNMTOKENType.java
+END
+LocalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/LocalType.java
+END
+TrueFalseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/TrueFalseType.java
+END
+RemoteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet-deployer/src/main/java/com/sun/grizzly/http/webxml/schema/version_3_0/RemoteType.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo3/src/main/java/com/sun/grizzly/samples/migration/connection/handler/filter
+END
+QuoteQueryManagerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo3/src/main/java/com/sun/grizzly/samples/migration/connection/handler/filter/QuoteQueryManagerFilter.java
+END
+QuoteQueryProtocolFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo3/src/main/java/com/sun/grizzly/samples/migration/connection/handler/filter/QuoteQueryProtocolFilter.java
+END

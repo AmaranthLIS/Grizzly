@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo1/src/main/java/com/sun/grizzly/samples/migration
+END
+NIOGateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo1/src/main/java/com/sun/grizzly/samples/migration/NIOGateway.java
+END
+QuoteManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/demo1/src/main/java/com/sun/grizzly/samples/migration/QuoteManager.java
+END

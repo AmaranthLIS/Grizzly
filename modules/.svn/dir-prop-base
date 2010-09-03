@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 50
+target
+.diff-working.txt.swp
+.diff.txt.swp
+*.iml
+
+
+END

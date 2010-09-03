@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/grizzly/!svn/ver/5103/trunk/code
+END
+copyright.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/grizzly/!svn/ver/5047/trunk/code/copyright.sh
+END
+copyright.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/grizzly/!svn/ver/5036/trunk/code/copyright.jar
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/grizzly/!svn/ver/5031/trunk/code/release.sh
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/grizzly/!svn/ver/5096/trunk/code/pom.xml
+END

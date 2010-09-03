@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http
+END
+LoadOnStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/LoadOnStartupTest.java
+END
+GrizzlyWebServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/GrizzlyWebServerTest.java
+END
+GrizzlyWebServerAbstractTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/GrizzlyWebServerAbstractTest.java
+END
+HelloGrizzlyWebServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/HelloGrizzlyWebServerTest.java
+END
+MapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/MapperTest.java
+END
+BasicServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/BasicServletTest.java
+END
+ComplexGrizzlyWebServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/ComplexGrizzlyWebServerTest.java
+END
+StatisticsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http-servlet/src/test/java/com/sun/grizzly/http/StatisticsTest.java
+END

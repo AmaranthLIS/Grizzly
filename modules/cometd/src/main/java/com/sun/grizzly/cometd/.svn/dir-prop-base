@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 101
+.DataHandler.java.swp
+.BayeuxCometHandler.java.swp
+.EventRouterImpl.java.swp
+.CometdRequest.java.swp
+
+END

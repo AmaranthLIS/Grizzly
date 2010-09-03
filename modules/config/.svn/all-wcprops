@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/grizzly/!svn/ver/5100/trunk/code/modules/config
+END
+osgi.bundle
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/osgi.bundle
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/config/pom.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/grizzly/!svn/ver/2482/trunk/code/samples/framework/nio-migration-guide/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/grizzly/!svn/ver/2482/trunk/code/samples/framework/nio-migration-guide/.project
+END
+Grizzly-Migration-Guide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/grizzly/!svn/ver/2482/trunk/code/samples/framework/nio-migration-guide/Grizzly-Migration-Guide.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/grizzly/!svn/ver/5031/trunk/code/samples/framework/nio-migration-guide/pom.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma
+END
+LzmaAlone.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/LzmaAlone.java
+END
+LzmaBench.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/LzmaBench.java
+END
+CRC.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/CRC.java
+END
+ICodeProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/ICodeProgress.java
+END

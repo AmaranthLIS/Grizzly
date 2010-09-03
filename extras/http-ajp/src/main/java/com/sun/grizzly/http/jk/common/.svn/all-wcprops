@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common
+END
+ChannelShm.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/ChannelShm.java
+END
+JkInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/JkInputStream.java
+END
+ChannelSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/ChannelSocket.java
+END
+MsgAjp.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/MsgAjp.java
+END
+WorkerDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/WorkerDummy.java
+END
+HandlerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/HandlerRequest.java
+END
+AjpConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/AjpConstants.java
+END
+ChannelNioSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/ChannelNioSocket.java
+END
+Shm.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/Shm.java
+END
+ChannelJni.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/ChannelJni.java
+END
+ChannelUn.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/ChannelUn.java
+END
+Shm14.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/Shm14.java
+END
+HandlerDispatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/HandlerDispatch.java
+END
+JniHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/common/JniHandler.java
+END

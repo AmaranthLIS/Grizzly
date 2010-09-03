@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl
+END
+UnregisterNotOwnedAliasTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl/UnregisterNotOwnedAliasTest.java
+END
+AuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl/AuthenticationTest.java
+END
+RegisterOverlappingResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl/RegisterOverlappingResourceTest.java
+END
+ServletAvailableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl/ServletAvailableTest.java
+END
+RegisterSevletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl/RegisterSevletTest.java
+END
+ResourceAvailableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl/ResourceAvailableTest.java
+END
+RegisterUnderUsedAliasTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/httpservice-its/src/test/java/com/sun/grizzly/osgi/httpservice/its/impl/RegisterUnderUsedAliasTest.java
+END

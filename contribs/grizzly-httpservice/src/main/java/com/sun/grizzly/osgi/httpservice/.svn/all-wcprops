@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice
+END
+HttpServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/HttpServiceImpl.java
+END
+HttpContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/HttpContextImpl.java
+END
+OSGiMainAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/OSGiMainAdapter.java
+END
+OSGiServletAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/OSGiServletAdapter.java
+END
+HttpServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/HttpServiceFactory.java
+END
+OSGiAuthFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/OSGiAuthFilter.java
+END
+OSGiCleanMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/OSGiCleanMapper.java
+END
+OSGiResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/OSGiResourceAdapter.java
+END
+OSGiServletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/OSGiServletContext.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/Activator.java
+END
+OSGiGrizzlyAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grizzly/!svn/ver/5031/trunk/code/contribs/grizzly-httpservice/src/main/java/com/sun/grizzly/osgi/httpservice/OSGiGrizzlyAdapter.java
+END

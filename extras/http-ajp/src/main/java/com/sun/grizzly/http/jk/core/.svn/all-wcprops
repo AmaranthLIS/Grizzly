@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/core
+END
+WorkerEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/core/WorkerEnv.java
+END
+JkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/core/JkHandler.java
+END
+Msg.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/core/Msg.java
+END
+MsgContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/core/MsgContext.java
+END
+JkChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/http-ajp/src/main/java/com/sun/grizzly/http/jk/core/JkChannel.java
+END

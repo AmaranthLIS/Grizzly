@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/comet/src/test/java/com/sun/grizzly/comet
+END
+CometUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/comet/src/test/java/com/sun/grizzly/comet/CometUnitTest.java
+END
+CometTestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/comet/src/test/java/com/sun/grizzly/comet/CometTestAdapter.java
+END
+BasicCometTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/comet/src/test/java/com/sun/grizzly/comet/BasicCometTest.java
+END

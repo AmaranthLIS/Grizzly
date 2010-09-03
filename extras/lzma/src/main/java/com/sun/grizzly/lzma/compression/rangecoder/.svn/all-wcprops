@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/rangecoder
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/rangecoder/Encoder.java
+END
+BitTreeDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/rangecoder/BitTreeDecoder.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/rangecoder/Decoder.java
+END
+BitTreeEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grizzly/!svn/ver/5031/trunk/code/extras/lzma/src/main/java/com/sun/grizzly/lzma/compression/rangecoder/BitTreeEncoder.java
+END

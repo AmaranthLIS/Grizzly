@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 84
+.ConnectRequest.java.swp
+.Connect.java.swp
+.Data.java.swp
+.DeliverResponse.java.swp
+
+END

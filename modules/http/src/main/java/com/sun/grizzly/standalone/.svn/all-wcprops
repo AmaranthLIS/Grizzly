@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http/src/main/java/com/sun/grizzly/standalone
+END
+StaticHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http/src/main/java/com/sun/grizzly/standalone/StaticHandler.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http/src/main/java/com/sun/grizzly/standalone/MimeType.java
+END
+StaticStreamAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http/src/main/java/com/sun/grizzly/standalone/StaticStreamAlgorithm.java
+END
+StandaloneMainUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grizzly/!svn/ver/5031/trunk/code/modules/http/src/main/java/com/sun/grizzly/standalone/StandaloneMainUtil.java
+END

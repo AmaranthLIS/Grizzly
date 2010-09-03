@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 38
+target
+.pom.xml.swp
+*.iws
+*.ipr
+*.iml
+
+END
